@@ -1,2 +1,2 @@
 # BMI-Calculator
-This is my first Python project repository
+This is my Python and c++ project repository
